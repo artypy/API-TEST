@@ -1,1 +1,1 @@
-web: gunicorn app:ApiMaybe
+web: gunicorn app:setup
